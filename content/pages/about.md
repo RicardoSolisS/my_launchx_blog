@@ -5,9 +5,9 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy?
 
-Soy Ricardo Solís
+Soy **Ricardo Solís**
 Tengo 34 años
 No tengo mascotas :-(
 Estudié Ciencias de la Comunicación y mayormente mi experiencia laboral ha sido como front-end en medios de noticias.
