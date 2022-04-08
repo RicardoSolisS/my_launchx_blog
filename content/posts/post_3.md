@@ -13,3 +13,5 @@ Lo hice solo por intentar aprender a usar Fish Shell, ya lo instalé y ahora no 
 Tengo mi duda de como ejecutar ahí los archivos que ya había creado para LaunchX.
 
 Supongo que googleando aprenderé.
+
+- Ya googlé y sí, ya encontré donde están los archivos, también buscandolo ya ví como funciona el auto completado de fish
