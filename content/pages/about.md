@@ -7,11 +7,11 @@ menu:
 
 ## ¿Quien soy?
 
-Soy **Ricardo Solís**
-Tengo 34 años
-No tengo mascotas :-(
-Estudié Ciencias de la Comunicación y mayormente mi experiencia laboral ha sido como front-end en medios de noticias.
-Aunque realmente tengo varios años sin encontrar un trabajo en eso, mi ultimo trabajo fue hace unos 3 años escribiendo notas y de administración solo corregía pequeños errores que tenía el sitio.
+- Soy **Ricardo Solís**
+- Tengo 34 años
+- No tengo mascotas :-(
+- Estudié Ciencias de la Comunicación y mayormente mi experiencia laboral ha sido como front-end en medios de noticias.
+- Aunque realmente tengo varios años sin encontrar un trabajo en eso, mi ultimo trabajo fue hace unos 3 años escribiendo notas y de administración solo corregía pequeños errores que tenía el sitio.
 
 Actualmente estoy desempleado, estoy cursando la Licenciatura en Derecho.
 
