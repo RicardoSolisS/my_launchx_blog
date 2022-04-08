@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Ricardo Solís</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://ricardosoliss.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ricardosoliss.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de lo que he aprendido</title>
+      <link>https://ricardosoliss.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricardosoliss.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Primero empezamos con un intro a python, recordé tantas cosas, realmente no aprendí mucho y de lo que aprendí me quedaron más dudas, pero afortunadamente encontré la forma de terminarlo. Aunque propiamente Markdown no lo aprendimos en su totalidad, me gusta, pienso que Github y Markdown son cosas que todos debemos sin importar nuestras licenciaturas, deberíamos aprender estos temas. Después aprendimos sobre front end, no fue fácil, tengo mis quejas sobre el maestro, pero también lo terminé, al final ya no entendí nada pero hey!</description>
+    </item>
+    
     <item>
       <title>La cultura en el desarrollo de software.</title>
       <link>https://ricardosoliss.github.io/my_launchx_blog/posts/intro/</link>
