@@ -1,6 +1,6 @@
 ---
 title: "Empezamos bien"
-date: 2022-04-07
+date: 2022-04-08
 description: 'bueno mas o menos'
 ---
 
