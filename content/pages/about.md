@@ -7,15 +7,14 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Soy Ricardo Solís
+Tengo 34 años
+No tengo mascotas :-(
+Estudié Ciencias de la Comunicación y mayormente mi experiencia laboral ha sido como front-end en medios de noticias.
+Aunque realmente tengo varios años sin encontrar un trabajo en eso, mi ultimo trabajo fue hace unos 3 años escribiendo notas y de administración solo corregía pequeños errores que tenía el sitio.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Actualmente estoy desempleado, estoy cursando la Licenciatura en Derecho.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+[Mis redes sociales](https://linktr.ee/ruckysolis)
 
+El Back-end siempre fue muy difícil para mí pero estas etapas de innovacción me han refrescado muchas cosas y eso me hace feliz :-)
