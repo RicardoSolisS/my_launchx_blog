@@ -1,3 +1,9 @@
+---
+title: "Empezamos bien"
+date: 2022-04-07
+description: 'bueno mas o menos'
+---
+
 El onboarding 0 me resultó muy fácil, fui lento pero seguro.
 
 Ya la práctica con Javascript lo hice muy confiado pero ya en el ejercicio donde tuvimos que pensar pues ya no entendí nada, espero que durante la sesión del viernes poder ver como se hace.
